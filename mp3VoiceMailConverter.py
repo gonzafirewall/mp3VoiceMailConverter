@@ -10,9 +10,7 @@
 
 import os
 import sys
-import time
 import pyinotify
-import sys
 from subprocess import call
 
 wm = pyinotify.WatchManager()
